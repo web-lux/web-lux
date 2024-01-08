@@ -3,6 +3,7 @@
 
 I'm Mélissa, a front-end developer.
 
+- 🔎 You can look at my portofolio [here](https://portofolio-lux.vercel.app/)
 - 🌱 Currently learning Express and pixel art
 - 🌍 French and english speaker
 - ⚡Roleplaying games enthusiast
