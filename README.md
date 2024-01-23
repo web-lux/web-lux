@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=435&lines=Hello+World!)](https://git.io/typing-svg)  
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/web-lux)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-fekir/)  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:melissa.fekir@outlook.fr) ![](https://img.shields.io/badge/my%20portfolio-F7B801)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/web-lux)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/melissa-fekir/)  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:melissa.fekir@outlook.fr) [![Portfolio](https://img.shields.io/badge/my%20portfolio-F7B801)](https://portofolio-lux.vercel.app/)
 
 I'm Mélissa, a front-end developer.
 
