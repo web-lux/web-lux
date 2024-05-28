@@ -3,8 +3,7 @@
 
 I'm Mélissa, a front-end developer.
 
-- 🔎 Looking for a full-time job as a developer 
-- 🌱 Currently learning React Native
+- 🌱 Currently learning Svelte
 - 🌍 French and English speaker
 - ⚡Roleplaying games enthusiast
 
